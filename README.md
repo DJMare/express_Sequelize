@@ -54,19 +54,15 @@ COMMAND PROMPT
 
 VS CODE
 
-(13) Navigate to the routes/index.js file.: 
-
-(14) Require mysql2 and models in routes/index.js file.: 
+(13) Navigate to the routes/index.js file and require mysql2 and models in routes/index.js file.: 
 
 COMMAND PROMPT
 
-(15) Install Sequelize CLI commands globally onto your computer: 
-
-    npm install -g sequelize-cli
-
-(16) Create necessary sequelize folders and files in project.:
+(14) Create necessary sequelize folders and files in project.:
 
     sequelize init
+
+(15) 
     
 
 VS CODE
