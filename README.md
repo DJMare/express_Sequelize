@@ -82,9 +82,9 @@ VS CODE
 
 (22) In the routes/index.js file require the models.:
 
-(23) In the views folder, create a actors.hbs file.: 
+(23) In the routes/index.js file add get() route for /actors that will use the findAll() method.: 
 
-(24)  Add a get() route for /actors to the routes/index.js file.: 
+(24) 
 
 COMMAND PROMPT
 
