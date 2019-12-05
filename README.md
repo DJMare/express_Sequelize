@@ -54,9 +54,9 @@ COMMAND PROMPT
 
 VS CODE
 
-(13) Navigate to the routes/index.js file.: ![Open index js file (Sequelize_ProvideDataToTheFrontEnd)](https://user-images.githubusercontent.com/35668707/69693911-08b5c580-10a5-11ea-9d4e-4d77582c6d9d.JPG)
+(13) Navigate to the routes/index.js file.: 
 
-(14) Require mysql2 and models in routes/index.js file.: ![Require mysql2 in index js file (Sequelize_ProvideDataToTheFrontEnd)](https://user-images.githubusercontent.com/35668707/69693937-2551fd80-10a5-11ea-8444-143e164d0700.JPG)
+(14) Require mysql2 and models in routes/index.js file.: 
 
 COMMAND PROMPT
 
@@ -71,7 +71,7 @@ COMMAND PROMPT
 
 VS CODE
 
-(17) Open config/config.json file and change settings to connect to the database.: ![Open config json file and update database connection info  (Sequelize_ProvideDataToTheFrontEnd)](https://user-images.githubusercontent.com/35668707/69693968-49154380-10a5-11ea-8b03-56684274763d.JPG)
+(17) Open config/config.json file and change settings to connect to the database.: 
 
 COMMAND PROMPT
 
@@ -89,13 +89,13 @@ COMMAND PROMPT
     
 VS CODE
 
-(21) Open app.js file at the root of the project and include the './model" folder so that the models are available everywhere in the application.: ![Require models i app js file (Sequelize_ProvideDataToTheFrontEnd)](https://user-images.githubusercontent.com/35668707/69694016-7104a700-10a5-11ea-8dcf-628c0935961d.JPG)
+(21) Open app.js file at the root of the project and include the './model" folder so that the models are available everywhere in the application.: 
 
-(22) Add sequelize sync code above module.exports in the app.js file to ensure that the tables within the models in the project are the same as in the database.: ![Add models sequelize sync in app js file (Sequelize_ProvideDataToTheFrontEnd)](https://user-images.githubusercontent.com/35668707/69694065-9d202800-10a5-11ea-8830-caa893b3c989.JPG)
+(22) Add sequelize sync code above module.exports in the app.js file to ensure that the tables within the models in the project are the same as in the database.: 
 
-(23) In the views folder, create a actors.hbs file.: ![In views create actors hbs file (Sequelize_ProvideDataToTheFrontEnd)](https://user-images.githubusercontent.com/35668707/69694296-3cddb600-10a6-11ea-98b3-e4a273fe3940.JPG)
+(23) In the views folder, create a actors.hbs file.: 
 
-(24)  Add a get() route for /actors to the routes/index.js file.: ![Add get() route for actors in index js file (Sequelize_ProvideDataToTheFrontEnd)](https://user-images.githubusercontent.com/35668707/69694340-61399280-10a6-11ea-9ea2-fa549f98ea92.JPG)
+(24)  Add a get() route for /actors to the routes/index.js file.: 
 
 COMMAND PROMPT
 
@@ -105,7 +105,7 @@ COMMAND PROMPT
 
 POSTMAN
 
-(28) Navigate to localhost3000/actors in Postman to view data.: ![Open in Postman (Sequelize_ProvideDataToTheFrontEnd)](https://user-images.githubusercontent.com/35668707/69844588-e48bed00-123a-11ea-8fd3-9e2858c8bb24.JPG)
+(28) Navigate to localhost3000/actors in Postman to view data.: 
 
 NODEMON NOTE
 
