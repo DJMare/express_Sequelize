@@ -68,7 +68,7 @@ COMMAND PROMPT
     
 
 VS CODE
-(16) 
+(16) Create a new folder in your "models" folder called rel. Create a file in your rel folder called associations.js and define the relationships between the "film" and "actor" models in this file.: 
 
 (17) Open config/config.json file and change settings to connect to the database.: 
 
