@@ -76,21 +76,9 @@ VS CODE
 
 (19) Open config/config.json file and change settings to connect to the database.: 
 
-COMMAND PROMPT
+(20) Open app.js file at the root of the project and include the './model" folder so that the models are available everywhere in the application.: 
 
-(18) Install mysql2 globally so sequelize CLI will be able to connect to the database.:
-
-    npm install -g mysql2
-    
-(19) Install sequelize-auto tool to generate model files: 
-
-    npm install -g sequelize-auto
-
-(20)
-    
-VS CODE
-
-(21) Open app.js file at the root of the project and include the './model" folder so that the models are available everywhere in the application.: 
+(21) 
 
 (22) Add sequelize sync code above module.exports in the app.js file to ensure that the tables within the models in the project are the same as in the database.: 
 
