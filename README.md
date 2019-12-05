@@ -84,7 +84,7 @@ VS CODE
 
 (22) In the routes/index.js file require the models.: ![Require models in index js file in routes folder (Sequelize_RESTfulAPI_ReturnData)](https://user-images.githubusercontent.com/35668707/70208637-1e0d9e00-16fc-11ea-9441-5858e5e40502.JPG)
 
-(23) In the routes/index.js file add get() route for /actors that will use the findAll() method.: 
+(23) In the routes/index.js file add get() route for /actors that will use the findAll() method.: ![Add get() route for actors in index js file in routes folder (Sequelize_RESTfulAPI_ReturnData)](https://user-images.githubusercontent.com/35668707/70208695-3e3d5d00-16fc-11ea-83ee-797fda6fb6c2.JPG)
 
 COMMAND PROMPT
 
