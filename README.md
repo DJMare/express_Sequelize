@@ -70,7 +70,11 @@ COMMAND PROMPT
 VS CODE
 (16) Create a new folder in your "models" folder called rel. Create a file in your rel folder called associations.js and define the relationships between the "film" and "actor" models in this file.: 
 
-(17) Open config/config.json file and change settings to connect to the database.: 
+(17) In the models/index.js file call the function from the models/rel/associations.js file.:
+
+(18) At the bottom of the models/index.js file add the call to associations function.:
+
+(19) Open config/config.json file and change settings to connect to the database.: 
 
 COMMAND PROMPT
 
