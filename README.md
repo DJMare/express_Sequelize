@@ -94,7 +94,7 @@ COMMAND PROMPT
 
 POSTMAN
 
-(25) Navigate to localhost3000/actors in Postman and perform a GET request to view data.: 
+(25) Navigate to localhost3000/actors in Postman and perform a GET request to view data.: ![Perform a GET request for localhost3000 - actors in POSTMAN to view data (Sequelize_RESTfulAPI_ReturnData)](https://user-images.githubusercontent.com/35668707/70208776-67f68400-16fc-11ea-8b80-3e0ef0472232.JPG)
 
 NODEMON NOTE
 
