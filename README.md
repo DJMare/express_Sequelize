@@ -19,15 +19,15 @@ COMMAND PROMPT
 
     npm install express-generator -g
 
-(5) Enter the following command to generate the Express starter app. This will set the view to use Handlebars and will name the app express_Sequelize_: 
+(5) Enter the following command to generate the Express starter app. This will set the view to use Handlebars and will name the app express_Sequelize_RESTfulAPI_ReturnData: 
 
-    express --view=hbs express_Sequelize_
+    express --view=hbs express_Sequelize_RESTfulAPI_ReturnData
 
-(6) Once the process is complete, navigate into the express_Sequelize_ directory: 
+(6) Once the process is complete, navigate into the express_Sequelize_RESTfulAPI_ReturnData directory: 
 
-    cd express_Sequelize_
+    cd express_Sequelize_RESTfulAPI_ReturnData
     
-(7) Now in the express_Sequelize_ directory, run the following: 
+(7) Now in the express_Sequelize_RESTfulAPI_ReturnData directory, run the following: 
 
     npm install
 
@@ -35,7 +35,7 @@ COMMAND PROMPT
 
     npm install -g nodemon
     
-(9) Install Nodemon as a devDependency in the package.json file within the express_Sequelize_ directory:
+(9) Install Nodemon as a devDependency in the package.json file within the express_Sequelize_RESTfulAPI_ReturnData directory:
 
     npm install -save-dev nodemon
     
