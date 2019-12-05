@@ -84,17 +84,15 @@ VS CODE
 
 (23) In the routes/index.js file add get() route for /actors that will use the findAll() method.: 
 
-(24) 
-
 COMMAND PROMPT
 
-(27) Run nodemon in terminal to see DB sync'd up: 
+(24) Run nodemon in terminal to see DB sync'd up: 
 
     nodemon
 
 POSTMAN
 
-(28) Navigate to localhost3000/actors in Postman to view data.: 
+(25) Navigate to localhost3000/actors in Postman and perform a GET request to view data.: 
 
 NODEMON NOTE
 
